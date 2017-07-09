@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/example/taskmanagerapp/beans/Task.java=UTF-8
+encoding//src/com/example/taskmanagerapp/service/TaskServiceImpl.java=UTF-8
+encoding//src/com/example/taskmanagerapp/service/TaskServiceImplService.java=UTF-8
+encoding//src/com/example/taskmanagerapp/service/TaskServiceImplServiceLocator.java=UTF-8
+encoding//src/com/example/taskmanagerapp/service/TaskServiceImplSoapBindingStub.java=UTF-8
